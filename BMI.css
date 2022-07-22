@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.head{
+    background-color: #333333;
+    height: 150px;
+    
+}
+.head h1{
+    color: #FFFFFF;
+    text-align: center;
+    
+}
