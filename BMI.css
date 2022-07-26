@@ -3,10 +3,15 @@
     padding: 0px;
     box-sizing: border-box;
 }
-.head{
+#head{
     background-color: #333333;
     height: 150px;
-    
+    position: relative;
+    left: 2em;
+}
+#head > h1{
+    position: relative;
+    left: 2em;
 }
 .head h1{
     color: #FFFFFF;
